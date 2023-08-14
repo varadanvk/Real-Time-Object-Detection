@@ -7,7 +7,7 @@ TL;DR: Python application for read time object detection on video feed.
 You can install all the used packages using.
 
 ```pip install -r requirements.txt```
-
+pip 
 To parse an URL.
 
 ```python Object_Detection_YouTube.py <URL> <Output_Filename.avi>```
